@@ -59,7 +59,7 @@
     "core-js": "^2.6.5",
     "defu": "^3.2.2",
     "eslint": "^5.16.0",
-    "eslint-plugin-vue": "^5.0.0",
+    "eslint-plugin-vue": "^10.4.0",
     "sass": "^1.26.10",
     "sass-loader": "^9.0.3",
     "tailwindcss": "^1.4.4",
